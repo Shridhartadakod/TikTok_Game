@@ -12,6 +12,7 @@ namespace TikTok_Game
         {
             Console.WriteLine("WSelcome to tic tac toe game:");
             TicTacGame.DrawBoard();
+            TicTacGame.Board();
         }
     }
 }
