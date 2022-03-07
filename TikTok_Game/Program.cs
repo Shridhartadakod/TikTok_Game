@@ -11,6 +11,7 @@ namespace TikTok_Game
         static void Main(string[] args)
         {
             Console.WriteLine("WSelcome to tic tac toe game:");
+            TicTacGame.DrawBoard();
         }
     }
 }
